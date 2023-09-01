@@ -1,3 +1,13 @@
+#share {
+    text-align: right;
+}
+
+footer {
+    text-align: center;
+    margin: 0;
+    font-size: 10px;
+}
+
 .title_us{
     background-color: #E4017E;
     color: #FFFFFF;
@@ -64,12 +74,136 @@
     background-color: #FF4F91;
 }
 
-#share {
-    text-align: right;
+.chika{
+   background-color: #FF791B;
 }
 
-footer {
-    text-align: center;
-    margin: 0;
-    font-size: 10px;
+.riko{
+    background-color: #FF7777;
+}
+
+.kanan{
+    background-color: #00D29E;
+}
+
+.dia{
+    background-color: #F43232;
+}
+
+.you{
+    background-color: #2AA4DB;
+}
+
+.yoshiko{
+    background-color: #AEAEAE;
+}
+
+.hanamaru{
+    background-color: #CFB0AF;
+}
+
+.mari{
+    background-color: #A530E0;
+}
+
+.ruby{
+    background-color: #EE55B7;
+}
+
+.ayumu{
+    background-color: #ED7D95;
+}
+
+.kasumi{
+    background-color: #E7D600;
+}
+
+.sizuku{
+    background-color: #01B7ED;
+}
+
+.karin{
+    background-color: #485EC6;
+}
+
+.ai{
+    background-color: #FF5800;
+}
+
+.kanata{
+    background-color: #A664A0;
+}
+
+.setsuna{
+    background-color: #D81C2F;
+}
+
+.emma{
+    background-color: #84C36E;
+}
+
+.rina{
+    background-color: #9CA5B9;
+}
+
+.shioriko{
+    background-color: #37B484;
+}
+
+.mia{
+    background-color: #D6D5CA;
+}
+
+.lanzhu{
+    background-color: #F8C8C4;
+}
+
+.yu{
+    background-color: #1D1D1D;
+    color: #FFFFFF;
+}
+
+.kanon{
+    background-color: #FF7F27;
+}
+
+.keke{
+    background-color: #A0FFF9;
+}
+
+.chisato{
+    background-color: #FF6E90;
+}
+
+.sumire{
+    background-color: #74F466;
+}
+
+.ren{
+    background-color: #0000A0;
+    color: #FFFFFF;
+}
+
+.kinako{
+    background-color: #FFF442;
+}
+
+.mei{
+    background-color: #FF3535;
+}
+
+.shiki{
+    background-color: #B2FFDD;
+}
+
+.natsumi{
+    background-color: #FF51C4;
+}
+
+.margarete{
+    background-color: #E49DFD;
+}
+
+.tomari{
+    background-color: #4CD2E2;
 }
