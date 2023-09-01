@@ -1,3 +1,9 @@
+.logo {
+    width: 20%;
+    margin: auto;
+    display: block;
+}
+
 #share {
     text-align: right;
 }
@@ -38,23 +44,23 @@ footer {
     color: #FFFFFF;
 }
 
-.name {
+.name{
     width: 180px;
 }
 
-.cast {
+.cast{
     width: 148px;
 }
 
-.color {
+.color{
     width: 180px;
 }
 
-.colorcode {
+.colorcode{
     width: 160px;
 }
 
-.rgb {
+.rgb{
     width: 110px;
 }
 
@@ -72,6 +78,7 @@ footer {
 
 .umi {
     background-color: #1769FF;
+    color: #FFFFFF;
 }
 
 .rin {
@@ -124,6 +131,7 @@ footer {
 
 .mari {
     background-color: #A530E0;
+    color: #FFFFFF;
 }
 
 .ruby {
@@ -144,6 +152,7 @@ footer {
 
 .karin {
     background-color: #485EC6;
+    color: #FFFFFF;
 }
 
 .ai {
@@ -152,10 +161,12 @@ footer {
 
 .kanata {
     background-color: #A664A0;
+    color: #FFFFFF;
 }
 
 .setsuna {
     background-color: #D81C2F;
+    color: #FFFFFF;
 }
 
 .emma {
@@ -234,6 +245,7 @@ footer {
 
 .sayaka-m {
     background-color: #5383C3;
+    color: #FFFFFF;
 }
 
 .kozue {
@@ -242,6 +254,7 @@ footer {
 
 .tsuzuri {
     background-color: #BA2636;
+    color: #FFFFFF;
 }
 
 .rurino {
@@ -301,4 +314,5 @@ footer {
 
 .kyoka {
     background-color: #AC3040;
+    color: #FFFFFF;
 }
