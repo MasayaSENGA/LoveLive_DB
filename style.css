@@ -6,15 +6,36 @@
 
 #share {
     text-align: right;
+
 }
 
 footer {
-    text-align: center;
-    margin: 0;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
     font-size: 10px;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
 }
 
 .index{
     text-align: center;
-    font-size: 200%;
+    font-size: 300%;
+}
+
+.btn-detail{
+    font-size: 20px;
+}
+
+.btn{
+    color: #FFFFFF;
+    background-color: #E4017D;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.btn:hover{
+    color: #FFFFFF;
+    background: #FFA336;
 }
