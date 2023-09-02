@@ -8,6 +8,18 @@
     text-align: right;
 }
 
+.btn {
+    color: #FFFFFF;
+    background-color: #E4017D;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    color: #FFFFFF;
+    background: #FFA336;
+}
+
 footer {
     text-align: center;
     margin: 0;
